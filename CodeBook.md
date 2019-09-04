@@ -1,6 +1,6 @@
 Code Book
 
-This code book represents all data fields in the file secTidySet.txt
+This code book represents all data fields in the file TidyDataSet.txt
 
 Identifiers
 subject
